@@ -1,5 +1,5 @@
 # Power-BI
-Power BI Project, Dashboard ,using DAX
+Power BI Project, Dashboard ,using DAX 
 
 <img src="https://github.com/puspabehera/Power-BI/blob/main/Staticfile/CustomersOrdersDAX.png" alt="Constructor-in-C#-Types-img1" width="900" height="563" class="blend-mode">
 
